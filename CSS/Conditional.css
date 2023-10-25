@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 230, 180);
+}
+
+.badan{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    border: 1px solid;
+    border-radius: 100px;
+}
